@@ -1,1 +1,0 @@
-{"name":"Curso","tagline":"","body":"login = input(\"Login\")\r\nsenha = input(\"Senha:\")\r\n\r\nprint(\"O usuraio informado foi: %s, e a senha digitada foi, %s\" %(login, senha))","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
