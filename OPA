@@ -1,0 +1,4 @@
+login = input("Login")
+senha = input("Senha:")
+
+print("O usuraio informado foi: %s, e a senha digitada foi, %s" %(login, senha))
